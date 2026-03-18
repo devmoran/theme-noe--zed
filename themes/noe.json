@@ -178,12 +178,15 @@
           {
             "cursor": "#2399FA",
             "background": "#2399FA20",
-            "selection": "#3C424C",
-          },
+            "selection": "#3C424C"
+          }
         ],
 
         "syntax": {
           "attribute": { "color": "#DE8249" },
+          "selector.class": { "color": "#DE8249" },
+          "selector.id": { "color": "#DE8249" },
+          "selector.pseudo": { "color": "#DE8249" },
           "boolean": { "color": "#FF80A4" },
           "comment": { "color": "#5C6370", "font_style": "italic" },
           "comment.doc": { "color": "#5C6370", "font_style": "italic" },
@@ -211,16 +214,16 @@
           "link_text": { "color": "#2399FA" },
           "link_uri": { "color": "#00C298" },
           "number": { "color": "#FF80A4" },
-          "operator": { "color": "#A1A8B5" },
+          "operator": { "color": "#5C6370" },
           "predictive": { "color": "#5C6370", "font_style": "italic" },
           "preproc": { "color": "#CC4B76" },
           "primary": { "color": "#A1A8B5" },
-          "property": { "color": "#00C298" },
+          "property": { "color": "#A1A8B5" },
           "punctuation": { "color": "#5C6370" },
           "punctuation.bracket": { "color": "#5C6370" },
           "punctuation.delimiter": { "color": "#5C6370" },
           "punctuation.list_marker": { "color": "#A1A8B5" },
-          "punctuation.special": { "color": "#CC4B76" },
+          "punctuation.special": { "color": "#5C6370" },
           "string": { "color": "#FF80A4" },
           "string.doc": { "color": "#5C6370", "font_style": "italic" },
           "string.escape": { "color": "#2399FA" },
@@ -238,9 +241,9 @@
           "variable.builtin": { "color": "#00C298" },
           "variable.member": { "color": "#00C298" },
           "variable.parameter": { "color": "#FF80A4" },
-          "variant": { "color": "#FF80A4" },
-        },
-      },
+          "variant": { "color": "#FF80A4" }
+        }
+      }
     },
     {
       "name": "Noe Light",
@@ -417,12 +420,15 @@
           {
             "cursor": "#0966CC",
             "background": "#0966CC20",
-            "selection": "#D0E4F8",
-          },
+            "selection": "#D0E4F8"
+          }
         ],
 
         "syntax": {
           "attribute": { "color": "#A85520" },
+          "selector.class": { "color": "#A85520" },
+          "selector.id": { "color": "#A85520" },
+          "selector.pseudo": { "color": "#A85520" },
           "boolean": { "color": "#B5294F" },
           "comment": { "color": "#5C6370", "font_style": "italic" },
           "comment.doc": { "color": "#5C6370", "font_style": "italic" },
@@ -454,12 +460,12 @@
           "predictive": { "color": "#8A919E", "font_style": "italic" },
           "preproc": { "color": "#A83060" },
           "primary": { "color": "#2A3340" },
-          "property": { "color": "#007A62" },
+          "property": { "color": "#5C6370" },
           "punctuation": { "color": "#5C6370" },
           "punctuation.bracket": { "color": "#5C6370" },
           "punctuation.delimiter": { "color": "#5C6370" },
           "punctuation.list_marker": { "color": "#2A3340" },
-          "punctuation.special": { "color": "#A83060" },
+          "punctuation.special": { "color": "#8A919E" },
           "string": { "color": "#B5294F" },
           "string.doc": { "color": "#5C6370", "font_style": "italic" },
           "string.escape": { "color": "#0966CC" },
@@ -477,9 +483,9 @@
           "variable.builtin": { "color": "#007A62" },
           "variable.member": { "color": "#007A62" },
           "variable.parameter": { "color": "#B5294F" },
-          "variant": { "color": "#B5294F" },
-        },
-      },
-    },
-  ],
+          "variant": { "color": "#B5294F" }
+        }
+      }
+    }
+  ]
 }
