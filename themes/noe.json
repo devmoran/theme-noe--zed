@@ -174,8 +174,8 @@
 
         "players": [
           {
-            "cursor": "#2399FA",
-            "background": "#2399FA20",
+            "cursor": "#FF80A4",
+            "background": "#FF80A420",
             "selection": "#3C424C"
           }
         ],
